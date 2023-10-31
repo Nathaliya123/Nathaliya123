@@ -1,8 +1,8 @@
-Natha👋 Hi
-Learn Bypass Sytsems - 👀 I’m interested in ...
-Ethical Hacking and Bypass - 🌱 I’m currently learning ...
-Bypass- 💞️ I’m looking to collaborate on ...
-@pola3333 telegram- 📫 How to reach me ...
+👋 Hi, am Natha.
+👀 I’m interested in Learn Bypass
+🌱 I’m currently learning Ethical Hacking and Bypass 
+💞️ I’m looking to collaborate on find more bypass bugs
+📫 How to reach me @pola3333 on telegram
 
 <!---
 Nathaliya123/Nathaliya123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
